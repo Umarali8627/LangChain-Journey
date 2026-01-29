@@ -202,6 +202,8 @@ This is where **projects become products**.
 * Beginners starting LangChain
 * Developers moving into **Agentic AI**
 * Anyone who wants **real-world AI projects**, not just theory
+* Rag implementaion with modular language
+  
 
 ---
 
