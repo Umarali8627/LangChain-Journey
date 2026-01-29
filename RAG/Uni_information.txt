@@ -1,0 +1,146 @@
+
+STUDENT INFORMATION:
+Name: Umar Ali
+University: Northern University, Nowshera
+Program: BSCS (Bachelor of Science in Computer Science)
+Semester: 5th Semester (BSCS-5)
+Student ID: 232-NUN-0052
+Email: umar.ali.bscs5@northernuniversity.edu.pk
+Phone: +92-3345005212
+Academic Year: 2025-2026
+Current Cgpa : 3.87
+Timetable Generated: October 13, 2025
+
+student 2 
+Name: Muhammad Ismail 
+University: Northern University, Nowshera
+Program: BSCS (Bachelor of Science in Computer Science)
+Semester: 5th Semester (BSCS-5)
+Student ID: 232-NUN-0026
+Email: umar.ali.bscs5@northernuniversity.edu.pk
+Phone: +92-334xxxxxx
+Academic Year: 2025-2026
+Current Cgpa : 3.87
+
+ATTENDANCE STATUS (as of November 2025):
+Overall Attendance Percentage: 88.5%
+Attendance Requirement: 75% minimums
+Status: Satisfactory
+Total Working Days: 60
+Days Attended: 53
+Days Absent: 7
+
+Computer Science HOD : Muhammad Athar 
+University Trustee : Taha Sawar 
+University Location : Wattar Wali Nowshera
+
+
+SUBJECT 1: THEORY OF AUTOMATA (ECS-212)
+Instructor: Muhammad Athar (HOD)
+Room: LR-2 (Monday), LR-6 (Thursday)
+Schedule: Monday 8:30-10:00, Thursday 11:30-1:00
+Classes Held: 22
+Classes Attended: 20
+Attendance Percentage: 90.9%
+Status: Good
+
+SUBJECT 2: OPERATING SYSTEM (ECS-356)
+Theory Instructor: Junaid Iqbal
+Lab Instructor: Anees Khan
+Theory Room: LR-6 (Tuesday), LR-4 (Thursday)
+Lab Rooms: LAB-1 (Monday), LAB-4 (Monday)
+Theory Schedule: Tuesday 11:30-1:00, Thursday 8:30-10:00
+Lab Schedule: Monday 10:00-11:30, Monday 1:45-3:15
+Classes Held: 24
+Classes Attended: 21
+Attendance Percentage: 87.5%
+Status: Satisfactory
+
+SUBJECT 3: WEB ENGINEERING (ECS-383)
+Theory Instructor: Muhammad Ramzan
+Lab Instructors: Anees Khan, Muhammad Ramzan
+Theory Room: LR-6
+Lab Room: LAB-1
+Theory Schedule: Monday 11:30-1:00, Tuesday 8:30-10:00
+Lab Schedule: Wednesday 11:30-1:00, Thursday 10:00-11:30
+Classes Held: 26
+Classes Attended: 23
+Attendance Percentage: 88.5%
+Status: Satisfactory
+
+SUBJECT 4: COMPUTER ORGANIZATION & ASSEMBLY LANGUAGE (ECS-252)
+Theory Instructor: Dr. Zeeshan Najam
+Lab Instructors: Dr. Zeeshan Najam, Syed Alyan u Din
+Theory Rooms: LR-5 (Tuesday), LR-4 (Wednesday)
+Lab Rooms: LAB-4 (Friday), LAB-1 (Friday)
+Theory Schedule: Tuesday 10:00-11:30, Wednesday 8:30-10:00
+Lab Schedule: Friday 10:00-11:30, Friday 11:30-1:00
+Classes Held: 28
+Classes Attended: 25
+Attendance Percentage: 89.3%
+Status: Good
+
+SUBJECT 5: TECHNICAL & BUSINESS WRITING (HEN-413)
+Instructor: Fazal Hussain
+Room: LR-6
+Schedule: Wednesday 10:00-11:30, Friday 8:30-10:00
+Classes Held: 20
+Classes Attended: 18
+Attendance Percentage: 90.0%
+Status: Good
+
+SUBJECT 6: INTRODUCTION TO MANAGEMENT (AMG-302)
+Instructor: Fazal Hussain
+Room: Hall
+Schedule: Tuesday 1:45-3:15, Wednesday 1:45-3:15
+Classes Held: 18
+Classes Attended: 15
+Attendance Percentage: 83.3%
+Status: Satisfactory (Close to minimum)
+
+MONDAY SCHEDULE:
+8:30-10:00 AM: Theory of Automata with Muhammad Athar in LR-2
+10:00-11:30 AM: Operating System LAB with Anees Khan in LAB-1
+11:30-1:00 PM: Web Engineering with Muhammad Ramzan in LR-6
+1:45-3:15 PM: Operating System LAB with Junaid Iqbal in LAB-4
+
+TUESDAY SCHEDULE:
+8:30-10:00 AM: Web Engineering with Muhammad Ramzan in LR-6
+10:00-11:30 AM: COAL with Dr. Zeeshan Najam in LR-5
+11:30-1:00 PM: Operating System with Junaid Iqbal in LR-6
+1:45-3:15 PM: Introduction to Management with Fazal Hussain in Hall
+
+WEDNESDAY SCHEDULE:
+8:30-10:00 AM: COAL with Dr. Zeeshan Najam in LR-4
+10:00-11:30 AM: Technical & Business Writing with Fazal Hussain in LR-6
+11:30-1:00 PM: Web Engineering LAB with Anees Khan in LAB-1
+1:45-3:15 PM: Introduction to Management with Fazal Hussain in Hall
+
+THURSDAY SCHEDULE:
+8:30-10:00 AM: Operating System with Junaid Iqbal in LR-4
+10:00-11:30 AM: Web Engineering LAB with Muhammad Ramzan in LAB-1
+11:30-1:00 PM: Theory of Automata with Muhammad Athar in LR-6
+
+FRIDAY SCHEDULE:
+8:30-10:00 AM: Technical & Business Writing with Fazal Hussain in LR-6
+10:00-11:30 AM: COAL LAB with Dr. Zeeshan Najam in LAB-4
+11:30-1:00 PM: COAL LAB with Syed Alyan u Din in LAB-1
+
+IMPORTANT NOTES:
+1. Lunch break is from 1:00 PM to 1:45 PM daily
+2. Monday is the busiest day with 4 classes
+3. Operating System has both theory and lab components
+4. Web Engineering lab is split between two instructors
+5. COAL lab on Friday has two consecutive sessions
+6. Hall refers to the main auditorium/hall
+7. Minimum attendance requirement is 75% for all subjects
+8. Introduction to Management attendance needs improvement
+
+CONTACT INFORMATION (If needed):
+Department Office: Computer Science Department, Main Building, 2nd Floor
+Academic Coordinator: To be assigned
+Library ID: NU-LIB-2021-UMAR-057
+Student Portal: portal.northernuniversity.edu.pk
+Emergency Contact: University Admin: 091-XXXXXXX
+
+This document contains the complete academic information for Umar Ali, BSCS-5th Semester, Northern University Nowshera, including schedule, attendance, and subject details for the 2025-2026 academic year.
